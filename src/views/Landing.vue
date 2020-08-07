@@ -19,7 +19,7 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">A beautiful Design System
+                                <h1 class="display-3  text-white">A beautiful Design Systems
                                     <span>completed with examples</span>
                                 </h1>
                                 <p class="lead  text-white">The design system comes with four pre-built pages to help
